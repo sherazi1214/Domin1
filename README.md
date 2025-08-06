@@ -5,7 +5,7 @@ General Security Concepts are the basic building blocks or fundamental ideas tha
 
 These are essential principles that apply to all areas of IT security, whether it's networks, applications, cloud, or data.
 
-## General Security Concept divide into four catagries 
+## General Security Concept divide into four categories
  
 - **[Security controls ](https://github.com/sherazi1214/Security-controls):**  we learn about what is  Security controls .
 - **[Security concepts ](https://github.com/sherazi1214/Security-concepts):**  we learn about what is  Security concepts .
